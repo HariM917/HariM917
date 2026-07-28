@@ -23,15 +23,15 @@
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/HariM917">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/harim917//">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="http://917portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 
