@@ -14,6 +14,9 @@ AI/ML Engineer • Full-Stack Developer • Computer Vision & RAG
   <a href="https://917portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="mailto:harimurali10a@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -22,7 +25,7 @@ AI/ML Engineer • Full-Stack Developer • Computer Vision & RAG
 
 I'm **Hari M**, a Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**, based in Chennai, India.
 
-I build **AI-powered applications and production-oriented full-stack systems**, with a particular interest in:
+I build **AI-powered applications and production-oriented full-stack systems**, with a strong interest in:
 
 - 🤖 Machine Learning & Deep Learning
 - 👁️ Computer Vision
@@ -31,70 +34,88 @@ I build **AI-powered applications and production-oriented full-stack systems**, 
 - ⚡ FastAPI & React-based applications
 - ☁️ Cloud Deployment & System Integration
 
-I enjoy taking an idea from **problem definition → model development → backend APIs → frontend → deployment**.
+I enjoy taking an idea from:
+
+**Problem Definition → Data → Model Development → Backend APIs → Frontend → Deployment**
 
 ### 🎯 Current Focus
 
 Currently exploring:
 
-**LLMs • RAG • Agentic AI • LangChain • LangGraph • AI system deployment**
+**LLMs • RAG • Agentic AI • LangChain • LangGraph • AI System Deployment**
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 TalentFlow AI — Enterprise ATS
+## 🤖 TalentFlow AI — Enterprise Applicant Tracking System
 
 **React • Python • Flask • PostgreSQL • Redis • Celery • MPNet • FAISS • RAG**
 
-An AI-powered Applicant Tracking System designed for intelligent resume screening and candidate discovery.
+An AI-powered Applicant Tracking System designed for intelligent resume screening, semantic candidate matching, and recruitment workflow automation.
 
-**Key engineering work:**
+### Key Engineering Work
 
 - Semantic resume-to-job matching using **768-dimensional MPNet embeddings**
-- FAISS-based vector search
+- FAISS-based vector similarity search
 - Hybrid retrieval using **FAISS + BM25**
 - RAG-powered career assistant
 - Multi-dimensional candidate scoring
-- Multi-tenant architecture with RBAC
-- JWT authentication and refresh-token rotation
-- Redis + Celery asynchronous processing
+- Multi-tenant architecture with **RBAC**
+- JWT authentication with refresh-token rotation
+- Redis + Celery for asynchronous processing
 - React + TypeScript + Tailwind frontend
 
-[View Repository](https://github.com/HariM917/ATS)
+🔗 [View Repository](https://github.com/HariM917/ATS)
 
 ---
 
-### 🚦 Smart Traffic Management System
+## 🚦 Smart Traffic Management System
 
 **Python • Computer Vision • YOLO • FastAPI • Reinforcement Learning**
 
-An intelligent traffic monitoring and management platform combining computer vision with AI-driven traffic analysis.
+An intelligent traffic monitoring and management platform combining computer vision, machine learning, and reinforcement learning for traffic analysis and optimization.
 
-**Key capabilities:**
+### Key Capabilities
 
-- Vehicle detection and monitoring
-- Traffic condition analysis
-- Traffic sign recognition
-- Road/weather condition detection
-- AI-based traffic analytics
-- Adaptive traffic signal optimization
+- 🚗 Vehicle detection and monitoring
+- 📊 Traffic condition analysis
+- 🚧 Traffic sign recognition
+- 🌦️ Road and weather condition detection
+- 📈 AI-powered traffic analytics
+- 🚦 Adaptive traffic signal optimization
 
-[View Repository](https://github.com/HariM917/stms)
+🔗 [View Repository](https://github.com/HariM917/stms)
 
 ---
 
-### 📄 DocIntel AI
+## 📄 DocIntel AI — Enterprise Document Intelligence
 
 **FastAPI • React • PyTorch • Tesseract OCR • RoBERTa • FAISS • MongoDB**
 
-An enterprise document intelligence platform for extracting, validating, protecting and searching information from complex documents.
+An enterprise document intelligence platform for extracting, validating, protecting, and searching information from complex documents.
 
-**Pipeline:**
+### Processing Pipeline
 
-`Document → OCR → Classification → NER → PII Validation → Redaction → Extraction → Vector Search`
+```text
+Document
+   ↓
+OCR
+   ↓
+Document Classification
+   ↓
+Named Entity Recognition
+   ↓
+PII Validation
+   ↓
+PII Redaction
+   ↓
+Structured Extraction
+   ↓
+Vector Search / RAG
+```
 
-**Key capabilities:**
+### Key Capabilities
 
 - Multi-format document processing
 - OCR-based text extraction
@@ -104,56 +125,57 @@ An enterprise document intelligence platform for extracting, validating, protect
 - Structured information extraction
 - FAISS-powered conversational RAG
 
-[View Repository](https://github.com/HariM917/DocIntel-AI)
+🔗 [View Repository](https://github.com/HariM917/DocIntel-AI)
 
 ---
 
-### 🎙️ Multilingual Lecture Assistant
+## 🎙️ Multilingual Lecture Assistant
 
 **Python • FastAPI • Whisper • Transformers • NLP • WebSockets**
 
-An AI-powered lecture assistant for real-time transcription, translation, keyword extraction and summarization.
+An AI-powered lecture assistant designed for real-time transcription, multilingual processing, keyword extraction, and summarization.
 
-**Features:**
+### Features
 
-- Speech-to-text using Whisper
-- Multilingual translation
-- Keyword and entity extraction
-- AI-powered summarization
-- Real-time WebSocket communication
-- Analytics dashboard
+- 🎤 Speech-to-text using Whisper
+- 🌐 Multilingual translation
+- 🔑 Keyword and entity extraction
+- 📝 AI-powered summarization
+- ⚡ Real-time WebSocket communication
+- 📊 Analytics dashboard
 
-[View Repository](https://github.com/HariM917/Lecture_Assistant)
+🔗 [View Repository](https://github.com/HariM917/Lecture_Assistant)
 
 ---
 
-### 🧠 CNN vs ResNet — Deep Learning Study
+## 🧠 CNN vs ResNet — Deep Learning Study
 
 **PyTorch • CNN • ResNet • CIFAR-10**
 
-An empirical study comparing conventional CNN depth with residual learning.
+An empirical study comparing conventional convolutional neural networks with residual learning architectures.
 
-The project investigates:
+### Study Areas
 
 - Shallow vs. medium vs. deep CNN architectures
 - Training convergence
 - Model parameter efficiency
 - Deep-network degradation
-- Residual connections and gradient flow
+- Residual connections
+- Gradient flow
 
-[View Repository](https://github.com/HariM917/cnn-resnet-comparison)
+🔗 [View Repository](https://github.com/HariM917/cnn-resnet-comparison)
 
 ---
 
-## 🛠️ Technical Stack
+# 🛠️ Technical Stack
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css"/>
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 - PyTorch
 - TensorFlow
@@ -166,8 +188,10 @@ The project investigates:
 - Computer Vision
 - RAG
 - Semantic Search
+- Machine Learning
+- Deep Learning
 
-### Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
@@ -181,13 +205,13 @@ The project investigates:
 - Redis
 - Celery
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
 </p>
 
-### DevOps & Tools
+### ☁️ DevOps & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,render,vscode,postman,figma"/>
@@ -195,7 +219,7 @@ The project investigates:
 
 ---
 
-## 🧪 What I Like Building
+# 🧪 What I Like Building
 
 ```text
 AI / ML
@@ -226,26 +250,51 @@ Full Stack
 
 ---
 
-## 📚 Education
+# 💼 Experience
 
-**B.E. Computer Science & Engineering — Artificial Intelligence & Machine Learning**
+## 🚀 Project Developer — AICTE IDEA LAB, Vel Tech High Tech
+
+**Jul 2026 – Present · Avadi, Tamil Nadu · On-site**
+
+- Working on AI/ML-focused project development and technical implementation.
+- Developing practical solutions involving machine learning and software engineering.
+- Contributing to project development, experimentation, and system implementation.
+
+---
+
+## 📸 Product Photography Intern — Nilgiris Super Market
+
+**Jul 2026 – Aug 2026 · Chennai, Tamil Nadu · Hybrid**
+
+- Photographed **500+ retail products** from multiple angles.
+- Maintained consistent lighting, composition, and image quality across product catalogs.
+- Worked within daily production targets and collaborated with the team to ensure timely delivery.
+- Managed high-volume image production while maintaining quality standards.
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning Intern — 8queenstech
+
+**Jul 2026 · Chennai, Tamil Nadu · On-site**
+
+- Completed hands-on training in **Python, Object-Oriented Programming, file handling, and data visualization**.
+- Applied Machine Learning concepts including **regression, classification, and K-Means clustering**.
+- Studied and implemented **Artificial Neural Networks (ANNs)** for classification and regression tasks.
+- Worked with datasets through practical machine learning exercises and implementations.
+
+---
+
+# 🎓 Education
+
+### B.E. Computer Science & Engineering — Artificial Intelligence & Machine Learning
 
 **Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College**
 
-Expected Graduation: **2028**
+**Expected Graduation: 2028**
 
 ---
 
-## 🏆 Experience & Activities
-
-- AI/ML project development across Computer Vision, NLP and RAG
-- Smart India Hackathon / hackathon project experience
-- Internship experience involving real-world product and data workflows
-- Full-stack application development and deployment
-
----
-
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HariM917&theme=github_dark"/>
@@ -258,7 +307,7 @@ Expected Graduation: **2028**
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 I'm interested in opportunities involving:
 
@@ -269,7 +318,7 @@ I'm interested in opportunities involving:
   •
   <a href="https://917portfolio.vercel.app/">Portfolio</a>
   •
-  <a href="mailto:">GitHub</a>
+  <a href="mailto:harimurali10a@gmail.com">Email</a>
 </p>
 
 ---
